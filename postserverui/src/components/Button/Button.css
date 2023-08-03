@@ -11,6 +11,6 @@
 }
 
 .primary{background-color: aqua;}
-.secondary{background-color: azure; color: black;}
+.secondary{background-color: rgb(154, 154, 154); color: black;}
 .success{background-color:green}
 .danger{background-color: red};
