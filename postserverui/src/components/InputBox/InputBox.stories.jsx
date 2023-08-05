@@ -4,7 +4,7 @@ export default {
     title: 'InputBox',
     component: InputBox,
 }
-// nns
+
 
 export const = {
 
