@@ -6,6 +6,8 @@ export default {
 }
 
 
-export const = {
+export const Small = () => <InputBox size='small' placeholder='Small size' />
 
-}
+export const Medium = () => <InputBox size='medium' placeholder='Medium size' />
+
+export const Large = () => <InputBox size='large' placeholder='Large size' />
