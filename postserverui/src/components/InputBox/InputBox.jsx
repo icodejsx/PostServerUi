@@ -2,13 +2,12 @@
 import './InputBox.stories'
 
 const InputBox = (props) => {
-    const { size = 'large', children, ...rest } = props
+    const { size = 'large', ...rest } = props
 
     return (
         <div>
-            <input type="text" className={`input ${size}`} {...rest} >
-                {children}
-            </input>
+            <input type="text" className={`input ${size}`} {...rest} />
+
         </div>
     )
 }
