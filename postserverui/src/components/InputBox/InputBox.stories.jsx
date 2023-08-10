@@ -1,7 +1,7 @@
 import InputBox from "./InputBox";
 
 export default {
-    title: 'InputBox',
+    title: 'Form/InputBox',
     component: InputBox,
 }
 
