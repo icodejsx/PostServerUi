@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.color {
+    color: #6c63ff;
+}
+
+.border{
+    border-color: #6c63ff;
+}
