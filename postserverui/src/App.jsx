@@ -1,5 +1,7 @@
+import Signup from "./components/Signpage/Signup.JSX"
 
-import HomePage from "./components/HomePage"
+
+
 
 
 
@@ -7,7 +9,7 @@ function App() {
 
   return (
     <div>
-      <HomePage />
+      <Signup />
     </div>
   )
 }
