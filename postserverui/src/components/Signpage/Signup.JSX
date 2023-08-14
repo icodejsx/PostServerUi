@@ -6,7 +6,7 @@ const Signup = () => {
         <div className='flex'>
             <div className='text-3xl'>
                 <p>DigitalPlatform for the Scale of Posts </p>
-                <p>am just kidding </p>
+                <p>am just kidding ok oo </p>
             </div>
             <form>
                 <p className='text-3xl font-bold'>SignUp</p>
