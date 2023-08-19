@@ -8,7 +8,7 @@ const Signup = () => {
                 <p>DigitalPlatform for the Scale of Posts </p>
                 <p>am just kidding ok oo  </p>
                 <p> let me keep adding </p>
-                <p>try to get things working </p>
+
             </div>
             <form>
                 <p className='text-3xl font-bold'>SignUp</p>
