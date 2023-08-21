@@ -7,7 +7,7 @@ const Signup = () => {
             <div className='text-3xl'>
                 <p>DigitalPlatform for the Scale of Posts </p>
                 <p>am just kidding ok oo  </p>
-                <p>just trrying me y best </p>
+
 
             </div>
             <form>
