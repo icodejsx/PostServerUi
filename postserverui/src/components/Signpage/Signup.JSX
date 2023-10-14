@@ -10,14 +10,15 @@ const Signup = () => {
             <form>
                 <p className='text-3xl font-bold '>SignUp</p>
                 <div className="mb-6 flex flex-col justify-start items-center">
-                    <label htmlFor="large-input" className="text-black">User Nam e</label>
+                    <label htmlFor="large-input" className="text-black">User Name</label>
                     <input type="text" id="large-input" className=" border-2 border-black" />
                 </div>
 
                 <div className="mb-6 flex flex-col justify-start items-center">
                     <label htmlFor="large-input" className="text-black">Email</label>
-                    <input type="text" id="large-input" className=" border-2 border-black" />
+                    <input type="email" id="large-input" className=" border-2 border-black" />
                 </div>
+                <button> Sighup </button>
 
             </form>
 
